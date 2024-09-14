@@ -1,13 +1,17 @@
-## AI Ethical Chatbot
+## **AI Ethical Chatbot**
+
 ## Table of Contents
-Overview
-Key Features
-Application Workflow
-Challenges and Solutions
-Future Enhancements
-How to Use
-Deployed Version
-Contributions
+
+1. Overview
+2. Key Features
+3. Application Workflow
+4. Challenges and Solutions
+5. Future Enhancements
+6. How to Use
+7. Deployed Version
+8. Contributions
+
+   
 # 1. Project Overview
 
 ***Overview***
